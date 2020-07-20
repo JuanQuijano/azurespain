@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30218.91
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosPrimosFunction", "NumerosPrimosFunction.csproj", "{A2C3DB04-0406-45DF-A92E-8C37E6745CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosPrimosFunctionTest", "..\RabbitFunctionTest\NumerosPrimosFunctionTest.csproj", "{7E882E0A-C6CE-4924-BEA7-62222F0B15CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C3DB04-0406-45DF-A92E-8C37E6745CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C3DB04-0406-45DF-A92E-8C37E6745CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C3DB04-0406-45DF-A92E-8C37E6745CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C3DB04-0406-45DF-A92E-8C37E6745CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E882E0A-C6CE-4924-BEA7-62222F0B15CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E882E0A-C6CE-4924-BEA7-62222F0B15CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E882E0A-C6CE-4924-BEA7-62222F0B15CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E882E0A-C6CE-4924-BEA7-62222F0B15CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E073496-3058-4345-995A-99FAEB223AC4}
+	EndGlobalSection
+EndGlobal
