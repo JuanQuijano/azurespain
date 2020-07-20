@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 
 namespace NumerosPrimosFunction
@@ -9,12 +10,22 @@ namespace NumerosPrimosFunction
 
         public static Resultado TiempoNumeroTotal(int numerosMax)
         {
+
+            Stopwatch stopwatch = new Stopwatch();
+            stopwatch.Start();
+
             var resultado = new Resultado();
             for (int num = 0; num <= numerosMax; num++)
             {
                 if (esPrimo(num)){ 
                 resultado.ultimoPrimo = num; }
             }
+
+
+            stopwatch.Stop();
+            TimeSpan stopwatchElapsed = stopwatch.Elapsed;
+            resultado.tiempoTotal = stopwatchElapsed;
+
             return resultado;
         }
 
