@@ -19,7 +19,7 @@ namespace NumerosPrimosFunction
         {
             log.LogInformation("C# HTTP trigger function processed a request.");
 
-            var responseMessage = Calcula.TiempoNumeroTotal(1000).tiempoTotal.TotalMilliseconds.ToString();
+            var responseMessage = Calcula.TiempoNumeroTotal(1000000).tiempoTotal.TotalMilliseconds.ToString();
             
             return new OkObjectResult(responseMessage);
         }
