@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "secrets1": {
+      "type": "secrets",
+      "connectionId": "storagekeycomputo"
+    },
     "storage1": {
       "type": "storage",
       "connectionId": "AzureWebJobsStorage"
