@@ -149,3 +149,13 @@ C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bi
 C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\NumerosPrimosFunction.dll
 C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\NumerosPrimosFunction.pdb
 C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\obj\Debug\netcoreapp3.1\NumerosPrimosFunctionTest.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.AzureKeyVault.HostingStartup.dll
+C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.Storage.dll
+C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Administrador\source\repos\JuanQuijano\azurespain\RabbitFunctionTest\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll

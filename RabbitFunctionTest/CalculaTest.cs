@@ -25,7 +25,7 @@ namespace RabbitFunctionTest
         [TestMethod]
         public void CalculaNumerosPrimos_numeros_primos_y_el_timeSpan_es_mayor_de_0()
         {
-            var numerosMax = 1000000;
+            var numerosMax = 10;
             var resultado = Calcula.TiempoNumeroTotal(numerosMax);
 
             Assert.IsTrue(resultado.tiempoTotal.TotalMilliseconds > 0);
