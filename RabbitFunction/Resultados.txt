@@ -1,0 +1,2 @@
+﻿NumMax 100k
+Computo		Premium 210		App Plan 100
